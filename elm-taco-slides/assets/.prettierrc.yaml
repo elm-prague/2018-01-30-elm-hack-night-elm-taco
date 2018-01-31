@@ -1,0 +1,8 @@
+# .prettierrc.yaml
+singleQuote: true
+trailingComma: all
+
+overrides:
+- files: "gulp/*.js"
+  options:
+    trailingComma: es5

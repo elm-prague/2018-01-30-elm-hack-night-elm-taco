@@ -1,0 +1,10 @@
+# .prettierrc.yaml
+singleQuote: true
+trailingComma: all
+
+overrides:
+- files:
+    - "./webpack.*.js"
+    - "./server.js"
+  options:
+    trailingComma: es5
