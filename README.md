@@ -4,6 +4,6 @@
 
 Slides are here: [elm-prague-taco.surge.sh](http://elm-prague-taco.surge.sh/)
 
-## Begginers App Done During Hack Night
+## Beginners App Done During Hack Night
 
 Code [is here](./the-app).
